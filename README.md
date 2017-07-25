@@ -29,3 +29,5 @@ As soon as you make a commit, you can open a pull request and start a discussion
 By using GitHub’s [@mention system](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar) in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+
+This is an edit I made in a repository on my local PC.  Here is how to [review and commit](https://help.github.com/desktop-beta/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project) changes.
