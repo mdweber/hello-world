@@ -31,3 +31,5 @@ By using GitHub’s [@mention system](https://help.github.com/articles/about-wri
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
 
 This is an edit I made in a repository on my local PC.  Here is how to [review and commit](https://help.github.com/desktop-beta/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project) changes.
+
+Here is how to [work with your remote repository on GitHub or GitHub Enterprise](https://help.github.com/desktop-beta/guides/contributing-to-projects/working-with-your-remote-repository-on-github-or-github-enterprise/)
